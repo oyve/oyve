@@ -1,6 +1,8 @@
-### Hi there 👋
+![](https://github.com/oyve/oyve/blob/main/studentroom.jpg?raw=true)
+My student room 2001, Trondheim, Norway
 
 <!--
+### Hi there 👋
 **oyve/oyve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
