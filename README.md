@@ -12,7 +12,7 @@ My student room - Trondheim, Norway, 2001.
 
 Well, you see that book above? The Javascript one. I can't remember the year I got it, but it was sometime after '94 when I started learning HTML + JavaScript on my dads computer, a Victor i486 33Mhz with a 28.8 bps dial-up connection that was shared with our house phone line.
 
-Little did I know, at that time, I would have a career in software and build large applications several years later. For most part it was teenage fun and a big (very big) rabbit hole to explore (I don't think I've seen the end of it yet...).
+Little did I know, at that time, I would have a career in software and build large applications several years later. For most part it was teenage fun and a big (very big) rabbit hole to explore (I haven't seen the end of it yet...).
 
 Unfortunately, I don't have a photo or screenshot of my first web page, but it's quite easy to describe:
 * It had two Clip Art palm trees, one on the left and one on the right (back when HTML tables were advanced web design)
