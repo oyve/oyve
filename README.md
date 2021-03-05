@@ -3,12 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oyvindhansen)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://500px.com/p/oyvindhansenphotography)
 
-I'm a developer at heart! <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" width="25px" /> <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="25px" />
+A developer at heart! <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" width="25px" /> <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="25px" />
 
 ![](https://github.com/oyve/oyve/blob/main/studentroom.jpg?raw=true)
 My student room - Trondheim, Norway, 2001.
 
-#### So how did it all start?
+#### How did it all start?
 
 Well, you see that book above? The Javascript one. I can't remember the year I got it, but it was sometime after '94 when I started learning HTML + JavaScript on my dads computer, a Victor i486 33Mhz with a 28.8 bps dial-up connection that was shared with our house phone line.
 
@@ -27,6 +27,8 @@ Unfortunately, I don't have a photo or screenshot of my first web page, but it's
 <img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" /> | Hi there, I'm Øyvind.<br /><br />I like rollerblading and listen to Offspring and Millencolin.<br /><br />Thanks for visiting!<br /><br /> ![](https://visitor-badge.glitch.me/badge?page_id=oyve) | <img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" />
 
 Back then, everyone were doing backend, frontend and design at the same time. Luckily things have changed or we might still have had Clip Art palm trees around!
+
+Well, the rest is history. Check out my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/oyvindhansen) or message me if you have any questions!
 
 
 
