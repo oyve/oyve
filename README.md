@@ -5,7 +5,7 @@
 
 A developer at heart! <img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" width="25px" /> <img src="https://media.giphy.com/media/OsxEuns6kqXIY/giphy.gif" width="25px" />
 
-![](https://github.com/oyve/oyve/blob/main/studentroom_curl.png?raw=true)
+![](https://github.com/oyve/oyve/blob/main/studentroom_pagecurl.png?raw=true)
 My student room - Trondheim, Norway, 2001.
 
 #### How did it all start?
