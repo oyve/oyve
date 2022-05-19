@@ -1,4 +1,4 @@
-#### A reproduction of my first website anno 1995:
+## A reproduction of my first website anno 1995:
 
 &nbsp; | <img src="https://github.com/oyve/oyve/blob/main/welcome.png" /> | &nbsp;
 ------------ | ------------- | -------------
