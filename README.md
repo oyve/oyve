@@ -4,7 +4,7 @@ Nice to e-meet you.
 Some of my recent projects:
 - [barometer-trend](https://github.com/oyve/barometer-trend) (javascript, open source)
 - [signalk-barometer-trend](https://github.com/oyve/barometer-trend) (javascript, open source)
-- [Leapfrog](https://github.com/oyve/Leapfrog) (WPF, MVPVM, open source)
+- [Leapfrog](https://github.com/oyve/Leapfrog) (WPF, C# 6.0, MVP+MVVM, open source)
 - [Solo Sailor](https://play.google.com/store/apps/details?id=com.ramsalt.solosailor) App launched 2023
 
 
