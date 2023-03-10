@@ -1,9 +1,9 @@
-#### A reproduction of my first website anno 1995 (long lost to the digital graveyard):
+### A reproduction of my first website anno 1995 (long lost to the digital graveyard):
 
 
 &nbsp; | <img src="https://github.com/oyve/oyve/blob/main/welcome.png" /> | &nbsp;
 ------------ | ------------- | -------------
-<img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" /> | Hi there, I'm Øyvind.<br /><br />I like rollerblading and listening to Offspring.<br /><br />Thanks for visiting!<br /><br /> ![](https://visitor-badge.glitch.me/badge?page_id=oyve) | <img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" />
+<img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" /> | Hi!<br /><br />Thanks for visiting!<br /><br /> ![](https://visitor-badge.glitch.me/badge?page_id=oyve) | <img src="https://media.giphy.com/media/8YZxEPB3ljGCi2oJ4R/giphy.gif" width="200px" />
 
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oyve&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
